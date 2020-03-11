@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "simple-storefront": {
+      "hosting": {
+        "Simple-Storefront": [
+          "simple-storefront"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "simple-storefront"
+  }
+}
